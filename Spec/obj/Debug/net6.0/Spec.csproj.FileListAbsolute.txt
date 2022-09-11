@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/CItog/Spec/bin/Debug/net6.0/Spec
+/Users/denislevchakov/Desktop/CItog/Spec/bin/Debug/net6.0/Spec.deps.json
+/Users/denislevchakov/Desktop/CItog/Spec/bin/Debug/net6.0/Spec.runtimeconfig.json
+/Users/denislevchakov/Desktop/CItog/Spec/bin/Debug/net6.0/Spec.dll
+/Users/denislevchakov/Desktop/CItog/Spec/bin/Debug/net6.0/Spec.pdb
+/Users/denislevchakov/Desktop/CItog/Spec/obj/Debug/net6.0/Spec.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/CItog/Spec/obj/Debug/net6.0/Spec.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/CItog/Spec/obj/Debug/net6.0/Spec.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/CItog/Spec/obj/Debug/net6.0/Spec.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/CItog/Spec/obj/Debug/net6.0/Spec.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/CItog/Spec/obj/Debug/net6.0/Spec.dll
+/Users/denislevchakov/Desktop/CItog/Spec/obj/Debug/net6.0/refint/Spec.dll
+/Users/denislevchakov/Desktop/CItog/Spec/obj/Debug/net6.0/Spec.pdb
+/Users/denislevchakov/Desktop/CItog/Spec/obj/Debug/net6.0/Spec.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/CItog/Spec/obj/Debug/net6.0/ref/Spec.dll
